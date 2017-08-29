@@ -1,0 +1,6 @@
+Host github.com 
+User panshanzxcv.love@163.com 
+Hostname ssh.github.com 
+PreferredAuthentications publickey 
+IdentityFile ~/.ssh/id_rsa 
+Port 443 
